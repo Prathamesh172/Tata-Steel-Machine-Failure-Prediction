@@ -50,6 +50,8 @@ The goal: **predict whether a machine will fail** based on sensor readings and o
 - Predicted failure probabilities (test set)  
 - Feature importance (XGBoost)  
 
+
 ---
 
-## 📂 Repository Structure
+## 📌 Key Takeaway
+This project demonstrates the ability to take a dataset **from raw CSV → insights → predictive model** in a real-world business context, balancing **technical rigor** with **business impact**.
